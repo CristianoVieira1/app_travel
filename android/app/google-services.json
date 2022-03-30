@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1068586066721",
+    "firebase_url": "https://turismors-f7e91.firebaseio.com",
+    "project_id": "turismors-f7e91",
+    "storage_bucket": "turismors-f7e91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068586066721:android:6453683365331aa95f5460",
+        "android_client_info": {
+          "package_name": "com.example.turismo_rs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068586066721-polap8qb51bsurp58tl9dcokboa46s9k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.turismo_rs",
+            "certificate_hash": "46f5206e0905e75053d2340f26a50b8aa8180f06"
+          }
+        },
+        {
+          "client_id": "1068586066721-5aols054cr5fa61dfkr16kngfdvsvjlo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj1WHi3B_H6fmWlEc-g5AAUHHxkCaM4f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068586066721-5aols054cr5fa61dfkr16kngfdvsvjlo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1068586066721-92b1sb443qqpvodhacg4fvoa2eelgvgp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.travelRs"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
