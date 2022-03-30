@@ -15,8 +15,7 @@
         android:name="io.flutter.app.FlutterApplication"
         android:label="Travel RS"
         android:icon="@mipmap/ic_launcher">
-        <meta-data android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyBZe9fPMoVixYcKy08oSkmw8l3zt2Zr7yo"/>
+        <meta-data android:name="com.google.android.geo.API_KEY"/>
 
         <activity
             android:name=".MainActivity"
